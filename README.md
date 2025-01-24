@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Giovana Matias
 
-- 🔭 Hoje trabalho com Suporte de Software
+- 🔭 stagiária Full Stack na Avanade, onde estou aprimorando minhas habilidades em desenvolvimento de software, trabalhando com tecnologias front-end e back-end para entregar soluções inovadoras e de alta qualidade.
 - 🌱 Estudando Banco de dados, Python
 - 😄 Pronouns: ela/dela
 
